@@ -17,7 +17,7 @@ This repository contains my notes, practice exercises, and small assignments rel
 
 ## Course Information
 
-The materials in this repository are based on the NLP course by Josh Patill on Udemy. This course provided me with valuable insights and practical knowledge in the following areas:
+The materials in this repository are based on the NLP course by Jose Portilla on Udemy. This course provided me with valuable insights and practical knowledge in the following areas:
 
 - Text preprocessing
 - Text representation and embeddings
